@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CouponRules/CouponRules.csproj" />
+  <Project Path="CouponRules.Tests/CouponRules.Tests.csproj" />
+</Solution>
